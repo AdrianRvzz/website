@@ -1,0 +1,43 @@
+{
+  "sucursalesData": [
+    {
+      "nombre": "Rio Grande",
+      "mapaSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3393.2900094803676!2d-106.44880408452083!3d31.73528414367292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e75951346911d5%3A0x672748b614781603!2sThe%20GYM%20Co.%20(Rio%20Grande%20Mall)!5e0!3m2!1ses!2smx!4v1622840512421!5m2!1ses!2smx",
+      "horario": [
+        { "dia": "Lunes a Viernes", "horario": "5:00 AM - 11:00 PM" },
+        { "dia": "Viernes", "horario": "5:00 AM - 10:00 PM" },
+        { "dia": "Sábado", "horario": "8:00 AM - 6:00 PM" },
+        { "dia": "Domingo", "horario": "9:00 AM - 2:00 PM" }
+      ],
+      "telefono": "6567919726",
+      "whatsapp": "6561749674",
+      "correo": "riogrande@thegymco.com"
+    },
+    {
+      "nombre": "Las Torres",
+      "mapaSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3397.1700338894084!2d-106.39654318452264!3d31.629194548924392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e76775dc5efdf5%3A0x77d308b532053172!2sThe%20GymCo!5e0!3m2!1ses!2smx!4v1622841006532!5m2!1ses!2smx",
+      "horario": [
+        { "dia": "Lunes a Viernes", "horario": "5:00 AM - 11:00 PM" },
+        { "dia": "Viernes", "horario": "5:00 AM - 10:00 PM" },
+        { "dia": "Sábado", "horario": "8:00 AM - 6:00 PM" },
+        { "dia": "Domingo", "horario": "9:00 AM - 2:00 PM" }
+      ],
+      "telefono": "6566907934",
+      "whatsapp": "6561978279",
+      "correo": "lastorres@thegymco.com"
+    },
+    {
+      "nombre": "Hard Beat",
+      "mapaSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3395.4481468577856!2d-106.42538568453855!3d31.676314546593762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e75dc8ae585c23%3A0x4902e50d0bca0976!2sThe%20Gym%20Co.%20(La%20Cuesta)!5e0!3m2!1ses!2smx!4v1624377930311!5m2!1ses!2smx",
+      "horario": [
+        { "dia": "Lunes a Viernes", "horario": "5:00 AM - 11:00 PM" },
+        { "dia": "Viernes", "horario": "5:00 AM - 10:00 PM" },
+        { "dia": "Sábado", "horario": "8:00 AM - 6:00 PM" },
+        { "dia": "Domingo", "horario": "9:00 AM - 2:00 PM" }
+      ],
+      "telefono": "6564065240",
+      "whatsapp": "6561807778",
+      "correo": "hardbeat@thegymco.com"
+    }
+  ]
+}
